@@ -25,3 +25,5 @@ Procedimento :
 
 11. testo all'interno dei div spostato
 
+12. tabella aggiornata con modifiche come richiesto dal layout
+

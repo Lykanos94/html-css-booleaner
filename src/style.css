@@ -1,5 +1,6 @@
 /* HEADER */
 
+
 #main-header {
 
     background-color: rgb(15, 147, 255);
@@ -62,13 +63,42 @@
 
 }
 
+table {
+
+    border-collapse: collapse;
+
+}
+
+.th1, .th-2, .th-3 {
+
+    padding-left: 80px;
+
+    text-align: left;
+
+    padding-left: 0px;
+
+}
+
+.th-1 {
+
+    padding-right: 65px;
+
+}
+
+
+
+.padding-td {
+
+    padding-right: 80px;
+
+}
+
 
 .head-table {
 
     background-color: rgb(28, 202, 255);
 
     color: white;
-
 
 }
 
@@ -83,7 +113,12 @@
 
     background-color: skyblue;
 
+    align-items: center;
+
 }
+
+
+
 
 .div-img-1 {
 
