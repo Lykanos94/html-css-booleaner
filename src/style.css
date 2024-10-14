@@ -56,3 +56,36 @@
 
 }
 
+.span-testo-1, .span-testo-2 {
+
+    display: block;
+
+}
+.head-table {
+
+    background-color: rgb(28, 202, 255);
+
+    color: white;
+
+    
+
+}
+
+.head-tr {
+
+    
+
+}
+
+.body-table {
+
+    height: 150px;
+
+}
+
+.primo-tr, .ultimo-tr {
+
+    background-color: skyblue;
+
+}
+
