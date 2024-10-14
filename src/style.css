@@ -1,9 +1,4 @@
 /* HEADER */
-body {
-    
-    margin: 0;
-
-}
 
 #main-header {
 
@@ -24,6 +19,40 @@ body {
     height: 40px;
 
     margin-top: 40px;
+
+}
+
+/* FINE HEADER */
+
+/* INIZIO MAIN */
+
+.testo-0 {
+
+    margin-bottom: 5px;
+
+}
+
+.testo-1 {
+
+    color: gray;
+
+    font-weight: bold;
+
+}
+
+.testo-2 {
+
+    color: rgb(28, 202, 255);
+
+    font-weight: bold;
+
+}
+
+.testo-3 {
+
+    color: gray;
+
+    font-weight: bold;
 
 }
 

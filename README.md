@@ -7,4 +7,6 @@ Procedimento :
 
 2. Nell'header aggiunto img per logo mentre nel css aggiunto una background image per pattern di sfondo
 
-3. 
+3. aggiunto inizio main con all'interno parte iniziale layout
+
+4. 
