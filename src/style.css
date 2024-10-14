@@ -61,21 +61,17 @@
     display: block;
 
 }
+
+
 .head-table {
 
     background-color: rgb(28, 202, 255);
 
     color: white;
 
-    
 
 }
 
-.head-tr {
-
-    
-
-}
 
 .body-table {
 
@@ -88,4 +84,35 @@
     background-color: skyblue;
 
 }
+
+.div-img-1 {
+
+    height: 200px;
+
+    width: 300px;
+
+    background-image: url(../assets/img/monitor.jpg);
+
+    color: white;
+
+}
+
+.div-img-2 {
+
+    height: 200px;
+
+    width: 300px;
+
+    background-image: url(../assets/img/graph.jpg);
+
+    color: white;
+
+}
+
+.testo-footer-1, .testo-footer-2 {
+
+    margin-left: 15px;
+}
+
+
 
