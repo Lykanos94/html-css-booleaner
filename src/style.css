@@ -3,7 +3,7 @@
 body {
 
     margin-right: 20%;
-    
+
     margin-left: 20%;
 
 }
@@ -33,7 +33,7 @@ body {
 /* FINE HEADER */
 
 /* INIZIO MAIN */
-
+/* SEZIONE H1 */
 .testo-0 {
 
     margin-bottom: 5px;
@@ -63,13 +63,15 @@ body {
     font-weight: bold;
 
 }
-
+/* FINE H1 */
+/* SEZIONE IMMAGINI MAIN */
 .span-testo-1, .span-testo-2 {
 
     display: block;
 
 }
-
+/* FINE IMMAGINI MAIN */
+/* INIZIO TABLE */
 table {
 
     border-collapse: collapse;
@@ -123,9 +125,9 @@ table {
     align-items: center;
 
 }
+/* FINE TABLE */
 
-
-
+/* INIZIO FOOTER */
 
 .div-img-1 {
 
@@ -156,5 +158,5 @@ table {
     margin-left: 15px;
 }
 
-
+/* FINE FOOTER */
 
